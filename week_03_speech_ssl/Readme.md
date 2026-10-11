@@ -12,11 +12,11 @@
 
 <div style="display: flex; gap: 8px; align-items: baseline; white-space: nowrap; line-height: 1.2; margin-bottom: 16px;">
   <span>Запись лекции &laquo;Self-Supervised Learning&raquo; доступна на</span>
-  <a href="https://youtu.be/M8OaTAVVof0" target="_blank" rel="noopener" aria-label="Watch on YouTube" style="text-decoration: none;">
+  <a href="https://youtu.be/5phU2CWzYIY?si=lsqy1iojDFb2eKfJ" target="_blank" rel="noopener" aria-label="Watch on YouTube" style="text-decoration: none;">
     <img src="https://cdn.simpleicons.org/youtube" alt="YouTube" width="20" style="vertical-align: bottom;"> YouTube
   </a>
   <span>и</span>
-  <a href="https://vkvideo.ru/video-155161349_456239321" target="_blank" rel="noopener" aria-label="Watch on VK" style="text-decoration: none;">
+  <a href="https://vkvideo.ru/video-155161349_456239404?list=67fd4ea15077d9e5c9" target="_blank" rel="noopener" aria-label="Watch on VK" style="text-decoration: none;">
     <img src="https://cdn.simpleicons.org/vk" alt="VK" width="20" style="vertical-align: bottom;"> VK Видео
   </a>
 </div>
